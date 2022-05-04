@@ -15,7 +15,7 @@ This feature is based on constraints defined in the openEHR templates and allows
 single coded elements in a composition.
 
 The following example demonstrates how to define the constraint in order to validate a coded element
-based on the standard value set ``http://hl7.org/fhir/ValueSet/surface`` define in HL7 FHIR.
+based on the standard value set ``http://hl7.org/fhir/ValueSet/surface`` defined in HL7 FHIR.
 
 .. code-block:: xml
 
