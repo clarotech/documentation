@@ -3,7 +3,7 @@ Context Information
 
 .. warning:: WIP
 
-To simplify the input, the flat formate offers the option to set context values which set default values in the rm-tree.
+To simplify the input, the flat format offers the option to set context values which set default values in the rm-tree.
 
 .. code-block:: json
 
@@ -136,7 +136,7 @@ participation
  }
 
 * sets the default for EVENT_CONTEXT.participations && ENTRY.otherParticipations
-* participation_identifiers can be set in a compact or non compat form.
+* participation_identifiers can be set in a compact or non compact form.
 
 health_care_facility
 --------------------------------------------------------
